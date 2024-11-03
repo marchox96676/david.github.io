@@ -237,7 +237,6 @@ footer a{
     display: none; 
     flex-direction: column; 
     background-color: rgb(227, 227, 198);
-    position: absolute;
     top: 60px;
     left: 0;
     width: 100%;
